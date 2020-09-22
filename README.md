@@ -1,5 +1,5 @@
-# collage_python_scripts
-:trollface:
+# collage_python_scripts :trollface:
+
 	:biohazard:**This repo contains random python scripts which are given as a task from our collage**	:biohazard:
 ## *Index*
 1. [positive_negative_no.py](https://github.com/arghya-007/collage_python_scripts/blob/master/positive_negative_no.py)-
@@ -25,4 +25,4 @@ Program to calculate and print all the odd or even numbers in series based on us
 1. [gcd_two_no.py](https://github.com/arghya-007/collage_python_scripts/blob/master/gcd_two_no.py)-
 Program to calculate and print the greatest common divisor of two numbers using **for loop**
 
-###This lists gets updated :arrows_clockwise: weekly
+> This lists gets updated :arrows_clockwise: weekly
