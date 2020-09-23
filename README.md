@@ -25,10 +25,12 @@ Program to calculate and print all the odd or even numbers in series based on us
 Program to calculate and print the greatest common divisor of two numbers using **for loop**
 1. [pattern1.py](https://github.com/arghya-007/collage_python_scripts/blob/master/pattern1.py)-
 Program to print the following pattern based on the number of rows as instucted by the user using **for loop**
+```
 *
 **
 ***
 ****
+```
 1. [pattern2.py](https://github.com/arghya-007/collage_python_scripts/blob/master/pattern2.py)-
 Program to print the following pattern based on the number of rows as instucted by the user using **for loop**
 *
