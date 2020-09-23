@@ -23,5 +23,20 @@ Program to calculate and print wether a number is prime or not using **for loop*
 Program to calculate and print all the odd or even numbers in series based on user's choise using **for loop**
 1. [gcd_two_no.py](https://github.com/arghya-007/collage_python_scripts/blob/master/gcd_two_no.py)-
 Program to calculate and print the greatest common divisor of two numbers using **for loop**
+1. [pattern1.py](https://github.com/arghya-007/collage_python_scripts/blob/master/pattern1.py)-
+Program to print the following pattern based on the number of rows as instucted by the user using **for loop**
+*
+**
+***
+****
+1. [pattern2.py](https://github.com/arghya-007/collage_python_scripts/blob/master/pattern2.py)-
+Program to print the following pattern based on the number of rows as instucted by the user using **for loop**
+*
+**
+***
+**
+*
+1. [armstrong.py](https://github.com/arghya-007/collage_python_scripts/blob/master/armstrong.py)-
+Program to find wether a given number is an armstrong number or not using **while loop**.
 
 > This lists gets updated :arrows_clockwise: weekly
