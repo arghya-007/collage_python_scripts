@@ -36,5 +36,6 @@ Program to find the number of words in a string using **while loop**.
 1. [vowels_count.py](https://github.com/arghya-007/collage_python_scripts/blob/master/vowels_count.py)-
 Program to find the number of vowels is a given string using **for loop** and **if statement** 
 
-> This lists gets updated :arrows_clockwise: weekly  <br>
+> This lists gets updated :arrows_clockwise: weekly 
+
 ###*If this repo helps you then do give it a :star:*
