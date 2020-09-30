@@ -38,4 +38,4 @@ Program to find the number of vowels is a given string using **for loop** and **
 
 > This lists gets updated :arrows_clockwise: weekly 
 
-##*If this repo helps you then do give it a :star:*##
+### *If this repo helps you then do give it a :star:*
