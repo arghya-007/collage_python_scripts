@@ -29,5 +29,12 @@ Program to calculate and print the greatest common divisor of two numbers using 
 Program to print the following pattern based on the number of rows as instucted by the user using **for loop**                                                                 
 1. [armstrong.py](https://github.com/arghya-007/collage_python_scripts/blob/master/armstrong.py)-
 Program to find wether a given number is an armstrong number or not using **while loop**.
+1. [palindrome_string.py](https://github.com/arghya-007/collage_python_scripts/blob/master/palindrome_string.py)-
+Program to find wether a given string is an palindrome or not using **if el** and **split operation** (to reverse a string)
+1. [word_count.py](https://github.com/arghya-007/collage_python_scripts/blob/master/word_count.py)-
+Program to find the number of words in a string using **while loop**.
+1. [vowels_count.py](https://github.com/arghya-007/collage_python_scripts/blob/master/vowels_count.py)-
+Program to find the number of vowels is a given string using **for loop** and **if statement** 
 
 > This lists gets updated :arrows_clockwise: weekly
+###*If this repo helps you then do give it a :star:*
